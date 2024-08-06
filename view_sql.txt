@@ -1,0 +1,6 @@
+create view vw_customer_data as
+	select * from churnanalysis_prod_churn where customer_status in ('churned', 'stayed')
+    
+    
+create view vw_JoinData as
+	select * from churnanalysis_prod_churn where customer_status = 'joined'
