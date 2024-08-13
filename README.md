@@ -26,7 +26,7 @@ A dataset containing customer information and churn status.
 How to Use
 Clone the Repository:
 bash
-Skopiuj kod
+Copy code
 git clone https://github.com/yourusername/churn-analysis.git
 Explore the Data: Use the provided dataset or your own customer data.
 Power BI Dashboards: Open the Power BI file to explore the pre-built dashboards.
