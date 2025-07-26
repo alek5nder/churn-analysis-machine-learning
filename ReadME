@@ -1,10 +1,10 @@
-🚀 # Churn Analysis with Power BI & Machine Learning
+# 🚀 Churn Analysis with Power BI & Machine Learning
 
 Welcome to the Churn Analysis project! This repository showcases a powerful combination of Power BI and machine learning to analyze and predict customer churn. Gain insights that help businesses retain their customers and boost revenue by identifying those at risk of leaving.
 
 📋 Project Overview Customer churn is a crucial metric for any business, as it directly impacts revenue and growth. Understanding the factors behind customer churn and predicting which customers are likely to leave can empower companies to take proactive measures to retain their clientele. This project leverages Power BI for interactive data visualization and integrates machine learning models to predict customer churn with precision.
 
-🔑 ## Key Features 📊 Data Visualization with Power BI:
+## 🔑 Key Features 📊 Data Visualization with Power BI:
 
 Create intuitive, interactive dashboards that present a clear picture of customer churn trends, patterns, and correlations. 🤖 Machine Learning Integration:
 
